@@ -1,0 +1,22 @@
+{
+  "name": "tomer-npm-package",
+  "version": "1.0.0",
+  "description": "This is a dummy npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shmargadt/TomerNPMPackage.git"
+  },
+  "keywords": [
+    "tomer"
+  ],
+  "author": "tomer shmargad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shmargadt/TomerNPMPackage/issues"
+  },
+  "homepage": "https://github.com/shmargadt/TomerNPMPackage#readme"
+}
